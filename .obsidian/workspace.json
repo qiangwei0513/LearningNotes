@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "b498deb764729406",
+    "type": "split",
+    "children": [
+      {
+        "id": "59b7c3606c2b0b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81abee20585b434a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoLang/基础语法/Chapter3常量与iota.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter3常量与iota"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d46fe43321e2e841",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e04930993b2dcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9f04c83503eca9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c5e95ce5b845829b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ded633d479f27f53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81eeb1cf0c845ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ca7ca813ee6aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f4608ba7819780d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GoLang/基础语法/Chapter3常量与iota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Chapter3常量与iota 的反向链接列表"
+            }
+          },
+          {
+            "id": "2069cb1dafd6c0a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GoLang/基础语法/Chapter3常量与iota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Chapter3常量与iota 的出链列表"
+            }
+          },
+          {
+            "id": "0fb4b506a4918a39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4be61c8861a5ea4a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "06222b00203ec6bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GoLang/基础语法/Chapter3常量与iota.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Chapter3常量与iota 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "81abee20585b434a",
+  "lastOpenFiles": [
+    "GoLang/基础语法/Chapter2数据类型.md",
+    "GoLang/基础语法/Chapter1基本语法.md",
+    "GoLang/基础语法/Chapter0.md"
+  ]
+}
