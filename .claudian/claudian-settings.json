@@ -1,6 +1,6 @@
 {
   "userName": "",
-  "permissionMode": "yolo",
+  "permissionMode": "normal",
   "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
@@ -36,7 +36,7 @@
       "environmentHash": ""
     },
     "codex": {
-      "enabled": false,
+      "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {
@@ -86,7 +86,7 @@
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "normal"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
