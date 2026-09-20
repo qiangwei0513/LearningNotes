@@ -8,35 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f53955722ca988eb",
+            "id": "b21896c77d0e7a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/基础语法/Chapter8数组与切片.md",
+                "file": "GoLang/基础语法/Chapter10映射表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter8数组与切片"
+              "title": "Chapter10映射表"
             }
           },
           {
-            "id": "e84ecc90984443aa",
+            "id": "b296cb55d9598993",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/基础语法/Chapter9字符串.md",
+                "file": "GoLang/基础语法/Chapter11指针.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter9字符串"
+              "title": "Chapter11指针"
+            }
+          },
+          {
+            "id": "1306eb2369f63b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GoLang/基础语法/Chapter12结构体.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter12结构体"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,10 +228,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e84ecc90984443aa",
+  "active": "8c9f04c83503eca9",
   "lastOpenFiles": [
-    "GoLang/基础语法/Chapter8数组与切片.md",
+    "GoLang/基础语法/Chapter11指针.md",
+    "GoLang/基础语法/Chapter12结构体.md",
+    "GoLang/基础语法/Chapter10映射表.md",
     "GoLang/基础语法/Chapter9字符串.md",
+    "GoLang/基础语法/Chapter8数组与切片.md",
     "GoLang/基础语法/Chapter4变量.md",
     "GoLang/基础语法/Chapter5输入输出.md",
     "GoLang/基础语法/chapter7循环控制.md",
